@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [messenging app](https://messenger-frontend-orpin.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-azure-rho-67.vercel.app/](https://portfolio-azure-rho-67.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amrit-kuikels-portfolio.vercel.app/](https://amrit-kuikels-portfolio.vercel.app/)
 
 - 📫 How to reach me **amritkuikel5689@gmail.com**
 
